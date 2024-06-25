@@ -158,7 +158,7 @@
           {
             "name": "gpt-4o-container",
             "properties": {
-              "image": "yourGPT4oImageHere",
+              "image": "azureml://registries/azure-openai/models/gpt-4o/versions/1",
               "resources": {
                 "requests": {
                   "cpu": 2,
